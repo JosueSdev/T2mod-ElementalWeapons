@@ -1,4 +1,5 @@
 # Elemental Weapons Mod
+
 ## Target game
 Torchlight II
 
@@ -8,10 +9,10 @@ Torchlight II
 ## Build Tool
 Torchlight II Guts
 
-## Public Release
+## Public Build
 https://steamcommunity.com/sharedfiles/filedetails/?id=827559792
 
-### This mod edits files from the base base game, son it can cause unexpected results when combined with other weapon mods
+### This mod edits files from the base base game, son it can cause unexpected results when combined with other mods.
 
 Common, Enchanted and Magic weapons have their damage split in a 50%(element)/50%(physical) ratio. Unique and Legendary items have all of their physical damage replaced with elemental damage.
 
