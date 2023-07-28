@@ -1,7 +1,4 @@
-# Elemental Weapons Mod
-
-## Target game
-Torchlight II
+# Torchlight II mod: Elemental Weapons
 
 ## Target version
 1.25.5.6
